@@ -1,5 +1,5 @@
-# Hi there I'm Jesús, 
-## a Mehanichal Engineer rebuit in Web Developer 💻 🤓
+# Hi there I'm Jesús 
+## Mehanichal Engineer rebuit in Web Developer 💻 🤓
 
 ## I love learning about Frontend Development, Web Design, and Accessibility
 
