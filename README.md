@@ -2,4 +2,4 @@
 
 ## I love learning about Frontend Development, Web Design, and Accessibility
 
-### You can contact me through: jesusvillarjimenez@gmail.com 📬 
+### You can contact me through: www.linkedin.com/in/jesusvillarjimenez 📬 
